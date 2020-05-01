@@ -10,3 +10,6 @@ Worked on first two questions from CodingJS.
 Started new app project.
 
 ### R1D2
+Worked through two mor questions from CodingJS
+
+continued work on new project but not making much progress due to technical issues.
