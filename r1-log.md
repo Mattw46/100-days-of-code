@@ -13,3 +13,8 @@ Started new app project.
 Worked through two mor questions from CodingJS
 
 continued work on new project but not making much progress due to technical issues.
+
+### R1D3
+Started with two codingbat problems to warm up.
+
+continued to investigate node as a server for my auction project.
