@@ -18,3 +18,8 @@ continued work on new project but not making much progress due to technical issu
 Started with two codingbat problems to warm up.
 
 continued to investigate node as a server for my auction project.
+
+### R1D4
+Started with two codingbat problems.
+
+Learned more about using nodejs as a server
