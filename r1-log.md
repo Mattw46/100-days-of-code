@@ -23,3 +23,8 @@ continued to investigate node as a server for my auction project.
 Started with two codingbat problems.
 
 Learned more about using nodejs as a server
+
+### R1D5
+
+Started build out server for my project in Node JS
+
