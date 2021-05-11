@@ -9,4 +9,8 @@ Picked up where i last left off with CodingJS.
 
 Completed front3 first go all tests passed.
 
-<!--### R1D2-->
+### R1D2
+Completed another CodingJS problem and forgot the length is a property not a function in JavaScript.
+Hoped to get more done but was interupted.
+
+
