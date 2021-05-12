@@ -13,4 +13,5 @@ Completed front3 first go all tests passed.
 Completed another CodingJS problem and forgot the length is a property not a function in JavaScript.
 Hoped to get more done but was interupted.
 
-
+### R1D3
+Woke up late so only did 1 CodingBatJS question before work.
