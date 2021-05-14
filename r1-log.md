@@ -15,3 +15,8 @@ Hoped to get more done but was interupted.
 
 ### R1D3
 Woke up late so only did 1 CodingBatJS question before work.
+
+### R1D4
+Today struggled with Lightning Web Components getting parent component to talk to the child.
+Didnt help that the instructions were vague. Most frustratingly Ive built something similar for a client.
+now how i did it eludes me.
