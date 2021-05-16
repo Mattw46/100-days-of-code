@@ -20,3 +20,6 @@ Woke up late so only did 1 CodingBatJS question before work.
 Today struggled with Lightning Web Components getting parent component to talk to the child.
 Didnt help that the instructions were vague. Most frustratingly Ive built something similar for a client.
 now how i did it eludes me.
+
+### R1D5
+Completed three CodingJS before moving onto work. not feeling challenged.
