@@ -23,3 +23,6 @@ now how i did it eludes me.
 
 ### R1D5
 Completed three CodingJS before moving onto work. not feeling challenged.
+
+### R1D6
+Started to do revision for Apex, not used to Java like lanaguage after being away for a while. Good to get back into practice.
