@@ -26,3 +26,8 @@ Completed three CodingJS before moving onto work. not feeling challenged.
 
 ### R1D6
 Started to do revision for Apex, not used to Java like lanaguage after being away for a while. Good to get back into practice.
+
+### R1D7
+Continued with Apex but didnt get much done. wasted time making typos and simple mistakes. Mainly due to trying to get my hour of code done first thing.
+
+
