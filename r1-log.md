@@ -30,4 +30,6 @@ Started to do revision for Apex, not used to Java like lanaguage after being awa
 ### R1D7
 Continued with Apex but didnt get much done. wasted time making typos and simple mistakes. Mainly due to trying to get my hour of code done first thing.
 
-
+### R1D8
+Spend extra time on Apex to make up. tried to finish Apex for Admins.
+This included some SOQL.
